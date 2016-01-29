@@ -1,0 +1,16 @@
+{
+  "name": "to-do-list",
+  "version": "1.0.0",
+  "description": "A to-do list app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "test"
+  },
+  "author": "Samir Damle",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "express": "^4.13.4"
+  }
+}
